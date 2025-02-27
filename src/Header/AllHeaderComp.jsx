@@ -1,5 +1,5 @@
 
-import NavBar from "./nav/navBar";
+import NavBar from "./nav/NavBar";
 import Sample from "./part/Sample";
 
 const AllHeaderComp = () => {
