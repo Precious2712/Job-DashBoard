@@ -1,4 +1,4 @@
-import Apply from "@/applyForm/Apply";
+
 import NavBar from "./nav/navBar";
 import Sample from "./part/Sample";
 

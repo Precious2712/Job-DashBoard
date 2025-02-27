@@ -1,7 +1,4 @@
 import React, { useState } from 'react'
-import moon from '/moonImages (2).jpeg'
-import img from '/GettyImages-911199570-c7347dab092841efac74925488146989.jpg'
-import '../headStyle/head.css'
 
 const NavBar = () => {
     const [dropdown, setDropdown] = useState(false);
